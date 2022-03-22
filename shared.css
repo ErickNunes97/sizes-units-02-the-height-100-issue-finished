@@ -41,6 +41,7 @@ body {
     height: 1.5rem;
     /* width: 20px; */
     display: inline-block;
+    vertical-align: middle;
 }
 
 .toggle-button {
@@ -73,7 +74,7 @@ body {
 .main-nav {
     display: inline-block;
     text-align: right;
-    width: calc(100% - 74px);
+    width: calc(100% - 122px);
     vertical-align: middle;
 }
 
