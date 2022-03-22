@@ -170,6 +170,9 @@ body {
 .button:focus {
     outline: none;
 }
+.open{
+    display:block;
+}
 
 .mobile-nav {
     display: none;
