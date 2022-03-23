@@ -171,7 +171,7 @@ body {
     outline: none;
 }
 .open{
-    display:block;
+    display:block !important;
 }
 
 .mobile-nav {
