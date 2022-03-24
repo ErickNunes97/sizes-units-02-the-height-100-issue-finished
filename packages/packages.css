@@ -38,7 +38,7 @@ main {
     top: 0;
     right: 0;
     margin: 1.2rem;
-    font-size: 12px;
+    font-size: 0.8rem;
     color: white;
     background: #ff5454;
     padding: 0.5rem;
@@ -68,7 +68,7 @@ main {
     background: rgba(234, 252, 237, 0.95);
     float: right;
     border-right: none;
-    border-left: 0.25rem solid #0e4f1f;
+    border-left: 4px solid #0e4f1f;
     text-align: right;
 }
 
